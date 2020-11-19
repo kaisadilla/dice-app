@@ -1,0 +1,6 @@
+Language: php
+php:
+ - "7.0"
+
+script:
+- php index.php
