@@ -33,7 +33,7 @@
 <body>
     <div class="cont">
         <div class="login">
-            <h1>Página de login</h1>
+            <h1>Página de login (contínuo)</h1>
             <form method="post" action="index.php">
                 <input type="text" name="email" placeholder="Email"> <br />
                 <input type="password" name="passwd" placeholder="Contraseña"> <br />
